@@ -1,1 +1,1 @@
-My first read me i my first repo
+My first read me in my first repo
